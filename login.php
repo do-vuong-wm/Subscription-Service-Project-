@@ -85,7 +85,7 @@ if (isset($_POST['submit'])) {
         echo '<p style=" color: red; "> Invalid Credentials</p>';
 
     };
-//test
+
 };
 
 ?>

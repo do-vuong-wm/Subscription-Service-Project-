@@ -153,3 +153,15 @@ li a
     border-bottom: 3px solid white;
 
 }
+
+.slides{
+
+    height: 80%;
+    width: 55%;
+    margin: 0 auto;
+    position: absolute;
+    top: 70px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}

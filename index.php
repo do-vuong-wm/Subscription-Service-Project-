@@ -18,6 +18,7 @@ if(($_SESSION['userSession']) == true ) {
     <meta charset="UTF-8">
     <title>Uproar</title>
     <link type="text/css" rel="stylesheet" href="style.css">
+    <link t
 </head>
 <body>
 
@@ -49,9 +50,12 @@ if(($_SESSION['userSession']) == true ) {
 
     <div class="slide">
 
-        <img style="height: 80%; width: 55%; margin: 0 auto; position: absolute; top: 70px; bottom: 0; left: 0; right: 0;" src="Untitled-1%20copy.png">
+        <img class="slides" src="Untitled-1%20copy.png">
+        <img class="slides" src="Untitled-1.png">
 
     </div>
+
+    <script src="script.js"></script>
 
 </div>
 
